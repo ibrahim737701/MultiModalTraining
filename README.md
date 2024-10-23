@@ -1,4 +1,4 @@
-# MultiModal  
+# Making Microsoft PHI MultiModal 
 
 Hugginface space application link: https://huggingface.co/spaces/ibrim/MultiModalPhi
 
