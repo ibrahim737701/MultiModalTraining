@@ -1,12 +1,21 @@
-# era_capstone
+# MultiModal  
 
-The following is the link of the final hugging face application
-https://huggingface.co/spaces/saurabhmangal12/Multimodal_LLM_ERA
+Hugginface space application link: https://huggingface.co/spaces/ibrim/MultiModalPhi
 
-Providing 2 examples of the same:
+Providing 3 examples of the same:
 
-Query 1
+Query 1 -  Image and prompt:
 
+<img width="809" alt="first" src="https://github.com/user-attachments/assets/b19a7317-d6a0-42e0-8b84-fc146503be9f">
+
+Query 2 - Image and prompt with different image:
+
+<img width="1194" alt="second" src="https://github.com/user-attachments/assets/0c13a6be-73bf-4d2c-bc0d-512c51ca8091">
+
+Query 3 - Audio and image query:
+Question in audio is "Describe the following image"
+
+<img width="1194" alt="third" src="https://github.com/user-attachments/assets/e0d3b536-7736-4047-b4ce-0287202fc49e">
 
 
 Assignment Step 1: Pretrain for annotated images.
