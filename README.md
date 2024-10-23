@@ -59,5 +59,13 @@ https://github.com/ibrahim737701/MultiModalTraining/blob/3acfd63a3e64def8e64ab49
 ## Part 3: Add whisper to pipeline and host app
 
 In the final part of the project, I incorporated OpenAI's Whisper ASR model into the pipeline. This allowed the model to accept audio inputs, converting them to text via automatic speech recognition (ASR). By stitching Whisper into the pipeline, the model was capable of handling multimodal input—enabling a seamless transition from image and text inputs to audio, offering a comprehensive user interaction experience.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Future improvements:
+
+I could've used techniques like OneCyclePolicy to speed up the training process. 
+Mixed precision training.
+Could have tried SGD instead of ADAM.
+
+
 
 
