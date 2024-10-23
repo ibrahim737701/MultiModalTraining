@@ -20,35 +20,44 @@ Question in audio is "Describe the following image"
 
 Assignment Step 1: Pretrain for annotated images.
 
-I have used Coco dataset for pretraining CLIP model (clip-vit-base-patch32) and LLM model (Phi2). 
-The following are the training logs:
+## Part 1: Image Embeddings with CLIP and Phi Model
+
+In this part of the project, I integrated CLIP model (vit-base-patch32) to generate image embeddings. These embeddings were either computed in real-time since I had enough compute. I then added a projection layer to convert these image embeddings into a format compatible with the text embeddings of the Phi model. By concatenating these embeddings, the model gained the ability to understand and reason about visual inputs alongside text.
+
+Link to the training logs:-
+https://github.com/ibrahim737701/MultiModalTraining/blob/3acfd63a3e64def8e64ab49abf7fe56d9faa9fce/Model_pretrain/training_logs_20241009_102342.txt
 
 Example Results:
 0 - Target captions:
- There is only room for one person to sit in the chair.  
+ A group of teddy bears are on display at the store.<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
 0 - predicted_captions:
- A living room with a couch,<|endoftext|> 
+ A display of stuffed animals in a store...........<|endoftext|> 
 1 - Target captions:
- A batter keeps his arm loose as he waits at home plate.  
+ A man holding a tennis racquet on a tennis court.  
 1 - predicted_captions:
- A baseball game with a batter, a pitcher<|endoftext|> 
-
-I have used the machine in my office, hence the proxies. Have taken permission for the same too.
+ A man is playing tennis on a court.<|endoftext|>
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<img width="635" alt="image" src="https://github.com/user-attachments/assets/52f2aa4f-583a-411e-bcc5-dc9f752eb298">
 
-Assignment Step 2: Finetuning for images and start Q&A mode.
+I have used the machine in my office, hence the proxies in the code. Have taken permission for the same too.
 
-The dataset that I have used is Instruct150k Dataset
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Part 2: Fine-Tuning with PEFT QLORA
+
+
+Building on the initial model, I fine-tuned it using PEFT (Parameter-Efficient Fine-Tuning) and QLORA techniques on the Instruct 150k dataset. This process optimized the model's capability to answer questions by learning more contextual and task-specific representations. The goal was to enhance the performance of the model while keeping the additional fine-tuning parameters small, resulting in a more efficient, versatile question-answering model.
 
 The following is the training log:
 
+https://github.com/ibrahim737701/MultiModalTraining/blob/3acfd63a3e64def8e64ab49abf7fe56d9faa9fce/Finetune/log.txt
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Example predictions
-Image: http://images.cocodataset.org/train2017/000000051587.jpg
-Question: Where is the empty suitcase located? [QA]
-Answer:   The empty suitcase is located on the wood floor in front of a radiator.<|endoftext|>
-Model Predicted Ans:  empty suitcase is located on the floor, next to a bed.
+## Part 3: Add whisper to pipeline and host app
+
+In the final part of the project, I incorporated OpenAI's Whisper ASR model into the pipeline. This allowed the model to accept audio inputs, converting them to text via automatic speech recognition (ASR). By stitching Whisper into the pipeline, the model was capable of handling multimodal input—enabling a seamless transition from image and text inputs to audio, offering a comprehensive user interaction experience.
+
 
