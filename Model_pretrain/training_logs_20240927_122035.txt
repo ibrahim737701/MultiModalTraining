@@ -1,0 +1,5 @@
+2024-09-27 12:21:04,911 - INFO - Training started.
+2024-09-27 12:23:47,695 - INFO - Step 0/100000: Avg Running Loss = 4.1239142417907715
+2024-09-27 12:25:24,261 - INFO - Batch skipped as captions too long.
+2024-09-27 12:29:24,944 - INFO - Step 100/100000: Avg Running Loss = 5.3139716911315915
+2024-09-27 12:33:46,197 - INFO - Step 200/100000: Avg Running Loss = 5.199070479869842

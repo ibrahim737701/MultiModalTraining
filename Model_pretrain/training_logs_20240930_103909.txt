@@ -1,0 +1,70 @@
+2024-09-30 10:39:35,875 - INFO - Training started.
+2024-09-30 10:40:40,438 - INFO - Step 0/100000: Avg Running Loss = 4.1718034744262695
+2024-09-30 10:43:03,433 - INFO - Batch skipped as captions too long.
+2024-09-30 10:43:30,211 - INFO - Step 100/100000: Avg Running Loss = 4.451879229545593
+2024-09-30 10:46:11,645 - INFO - Step 200/100000: Avg Running Loss = 4.701593689918518
+2024-09-30 10:48:47,482 - INFO - Step 300/100000: Avg Running Loss = 4.509684166908264
+2024-09-30 10:51:19,615 - INFO - Step 400/100000: Avg Running Loss = 4.558897864818573
+2024-09-30 10:53:45,812 - INFO - 0 - Target captions:
+ A black and white photo of a city scene with churches.  
+0 - predicted_captions:
+ A large tower with a clock on it in a........ the<|endoftext|> 
+2024-09-30 10:53:45,812 - INFO - 1 - Target captions:
+ A very tall clock tower towering over a building.<|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A clock tower in the middle of a city........ the.<|endoftext|> 
+2024-09-30 10:53:45,812 - INFO - 2 - Target captions:
+ A lady enjoying a beer in a marina. <|endoftext|>  
+2 - predicted_captions:
+ A woman is sitting at a table with a a a a a a a a a a a<|endoftext|> 
+2024-09-30 10:53:45,812 - INFO - 3 - Target captions:
+ A woman pouring a glass of wine near a man.<|endoftext|>  
+3 - predicted_captions:
+ A woman is holding a cup of a a a a.... a. a.<|endoftext|> 
+2024-09-30 10:53:50,265 - INFO - Step 500/100000: Avg Running Loss = 4.432720801830292
+2024-09-30 10:56:09,068 - INFO - Step 600/100000: Avg Running Loss = 4.5806912064552305
+2024-09-30 10:58:33,658 - INFO - Step 700/100000: Avg Running Loss = 4.59889386177063
+2024-09-30 11:00:49,153 - INFO - Step 800/100000: Avg Running Loss = 4.43794349193573
+2024-09-30 11:02:56,268 - INFO - Batch skipped as captions too long.
+2024-09-30 11:03:10,388 - INFO - Step 900/100000: Avg Running Loss = 4.462362530231476
+2024-09-30 11:05:34,965 - INFO - 0 - Target captions:
+ A girl is having fun brushing her teeth.<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+0 - predicted_captions:
+ A young girl with a pink hair tie and a tooth.. tooth.. tooth..<|endoftext|> 
+2024-09-30 11:05:34,966 - INFO - 1 - Target captions:
+ Tennis player in action going for a swing at the ball<|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A man is playing tennis on a court. a. a. a. a. a.<|endoftext|> 
+2024-09-30 11:05:34,966 - INFO - 2 - Target captions:
+ Large kites are being flown in the air <|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+2 - predicted_captions:
+ A group of people flying kites in a a sky........<|endoftext|> 
+2024-09-30 11:05:34,966 - INFO - 3 - Target captions:
+ A coffee pot, food and a frying pan on a table.   
+3 - predicted_captions:
+ A plate of food with a cup of a and a.... and...<|endoftext|> 
+2024-09-30 11:05:38,194 - INFO - Step 1000/100000: Avg Running Loss = 4.498155422210694
+2024-09-30 11:05:52,876 - INFO - Batch skipped as captions too long.
+2024-09-30 11:08:00,936 - INFO - Step 1100/100000: Avg Running Loss = 4.507652759552002
+2024-09-30 11:10:24,351 - INFO - Step 1200/100000: Avg Running Loss = 4.561035339832306
+2024-09-30 11:12:49,615 - INFO - Step 1300/100000: Avg Running Loss = 4.515641994476319
+2024-09-30 11:15:13,704 - INFO - Step 1400/100000: Avg Running Loss = 4.488022375106811
+2024-09-30 11:15:49,083 - INFO - Batch skipped as captions too long.
+2024-09-30 11:17:40,883 - INFO - 0 - Target captions:
+ A man with sunglasses and a blue beanie talking on a cell phone.  
+0 - predicted_captions:
+ A man holding a cell phone in his hand. his.. his. his. his.<|endoftext|> 
+2024-09-30 11:17:40,883 - INFO - 1 - Target captions:
+ Two girls holding Wii controllers in a living room.<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A woman is sitting on a couch with a a a a a a a a a a a<|endoftext|> 
+2024-09-30 11:17:40,883 - INFO - 2 - Target captions:
+ an athlete swinging a tennis racket at a tennis ball<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+2 - predicted_captions:
+ A man is playing tennis with a racket...........<|endoftext|> 
+2024-09-30 11:17:40,883 - INFO - 3 - Target captions:
+ woman and girl sitting in at a table in a resturaunt<|endoftext|><|endoftext|>  
+3 - predicted_captions:
+ A couple of women sitting at a table with a table a. a. a. a.<|endoftext|> 
+2024-09-30 11:17:45,105 - INFO - Step 1500/100000: Avg Running Loss = 4.571068761348724
+2024-09-30 11:20:12,857 - INFO - Step 1600/100000: Avg Running Loss = 4.552159018516541

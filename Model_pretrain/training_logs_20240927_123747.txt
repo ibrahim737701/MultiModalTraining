@@ -1,0 +1,64 @@
+2024-09-27 12:38:16,481 - INFO - Training started.
+2024-09-27 12:40:33,280 - INFO - Step 0/100000: Avg Running Loss = 4.858605861663818
+2024-09-27 12:42:03,073 - INFO - Batch skipped as captions too long.
+2024-09-27 12:43:21,949 - INFO - Batch skipped as captions too long.
+2024-09-27 12:46:14,981 - INFO - Step 100/100000: Avg Running Loss = 5.347204639911651
+2024-09-27 12:50:21,403 - INFO - Step 200/100000: Avg Running Loss = 5.344360682964325
+2024-09-27 12:54:35,321 - INFO - Step 300/100000: Avg Running Loss = 5.257790405750274
+2024-09-27 12:58:38,940 - INFO - Step 400/100000: Avg Running Loss = 5.3197967410087585
+2024-09-27 13:02:46,101 - INFO - Step 500/100000: Avg Running Loss = 5.452249925136567
+2024-09-27 13:06:47,228 - INFO - Step 600/100000: Avg Running Loss = 5.250835204124451
+2024-09-27 13:10:48,313 - INFO - Step 700/100000: Avg Running Loss = 5.237576744556427
+2024-09-27 13:14:56,491 - INFO - Step 800/100000: Avg Running Loss = 5.262544121742248
+2024-09-27 13:18:25,607 - INFO - Batch skipped as captions too long.
+2024-09-27 13:19:00,299 - INFO - Step 900/100000: Avg Running Loss = 5.196068494319916
+2024-09-27 13:23:10,247 - INFO - 0 - Target captions:
+ a person walking on a sie walk talking on a phone<|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+0 - predicted_captions:
+ A man and a woman standing in a on a a a a a a. a a a<|endoftext|> 
+2024-09-27 13:23:10,247 - INFO - 1 - Target captions:
+ Two people sit in front of a refrigerator at a kitchen table.<|endoftext|><|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A man is sitting on a couch in a living room with a a a a. a a<|endoftext|> 
+2024-09-27 13:23:10,248 - INFO - 2 - Target captions:
+ a desk with a big monitor and a laptop by a coffee cup <|endoftext|><|endoftext|>  
+2 - predicted_captions:
+ A white and black and a a a a a a a a a a a a a a<|endoftext|> 
+2024-09-27 13:23:10,248 - INFO - 3 - Target captions:
+ A person flying a kite and another person running underneath it on the beach.  
+3 - predicted_captions:
+ A man and a woman on a a a a a a a a a a a a a<|endoftext|> 
+2024-09-27 13:23:15,856 - INFO - Step 1000/100000: Avg Running Loss = 5.1754362630844115
+2024-09-27 13:27:20,830 - INFO - Step 1100/100000: Avg Running Loss = 5.226307239532471
+2024-09-27 13:31:33,241 - INFO - Step 1200/100000: Avg Running Loss = 5.22643741607666
+2024-09-27 13:34:26,018 - INFO - Batch skipped as captions too long.
+2024-09-27 13:35:44,934 - INFO - Step 1300/100000: Avg Running Loss = 5.305225656032563
+2024-09-27 13:39:45,251 - INFO - Step 1400/100000: Avg Running Loss = 5.0684647727012635
+2024-09-27 13:43:54,697 - INFO - Step 1500/100000: Avg Running Loss = 5.2914953970909115
+2024-09-27 13:48:03,003 - INFO - Step 1600/100000: Avg Running Loss = 5.171838824748993
+2024-09-27 13:48:31,882 - INFO - Batch skipped as captions too long.
+2024-09-27 13:52:10,134 - INFO - Step 1700/100000: Avg Running Loss = 5.208941855430603
+2024-09-27 13:55:19,805 - INFO - Batch skipped as captions too long.
+2024-09-27 13:56:19,001 - INFO - Step 1800/100000: Avg Running Loss = 5.216638867855072
+2024-09-27 13:57:33,703 - INFO - Batch skipped as captions too long.
+2024-09-27 13:58:37,199 - INFO - Batch skipped as captions too long.
+2024-09-27 14:00:29,452 - INFO - Step 1900/100000: Avg Running Loss = 5.1663750290870665
+2024-09-27 14:04:27,149 - INFO - 0 - Target captions:
+ A computer mouse and pad sit on a desk over looking a cityscape.   
+0 - predicted_captions:
+ A man is standing in front of a a a a a a a a a. a a<|endoftext|> 
+2024-09-27 14:04:27,150 - INFO - 1 - Target captions:
+ Several people are watching a large wooden exhibit during the daytime.<|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A man is sitting on a a a a a a a a a a a a a a<|endoftext|> 
+2024-09-27 14:04:27,150 - INFO - 2 - Target captions:
+ An advertisement featuring a cell phone and some writing.<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+2 - predicted_captions:
+ A man is holding a camera in a a a of a a. a of a a of<|endoftext|> 
+2024-09-27 14:04:27,150 - INFO - 3 - Target captions:
+ A tall clock tower with a few trees around it.<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+3 - predicted_captions:
+ A man is standing in front of a a a a a a a a a a a a<|endoftext|> 
+2024-09-27 14:04:32,796 - INFO - Step 2000/100000: Avg Running Loss = 4.968332169055938
+2024-09-27 14:08:45,224 - INFO - Step 2100/100000: Avg Running Loss = 5.157259273529053
+2024-09-27 14:08:50,698 - INFO - Batch skipped as captions too long.

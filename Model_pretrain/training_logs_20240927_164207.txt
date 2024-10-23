@@ -1,0 +1,89 @@
+2024-09-27 16:42:46,265 - INFO - Training started.
+2024-09-27 16:44:58,653 - INFO - Step 0/100000: Avg Running Loss = 6.307510852813721
+2024-09-27 16:49:47,142 - INFO - Step 100/100000: Avg Running Loss = 4.9015753245353695
+2024-09-27 16:53:44,387 - INFO - Step 200/100000: Avg Running Loss = 5.027519075870514
+2024-09-27 16:57:48,274 - INFO - Step 300/100000: Avg Running Loss = 5.008704478740692
+2024-09-27 17:01:46,619 - INFO - Step 400/100000: Avg Running Loss = 5.01507022857666
+2024-09-27 17:05:58,176 - INFO - 0 - Target captions:
+ Two red vases sitting on top of a white table.<|endoftext|>  
+0 - predicted_captions:
+ A table with a vase of flowers on a a a a a on a of a.<|endoftext|> 
+2024-09-27 17:05:58,176 - INFO - 1 - Target captions:
+ A double picture is of a woman tennis player.<|endoftext|><|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A man is playing tennis with a ball in a a a a a. a a. a<|endoftext|> 
+2024-09-27 17:05:58,176 - INFO - 2 - Target captions:
+ A bag with a computer and quilt sits on a table.  
+2 - predicted_captions:
+ A man is sitting on a couch with a a a a a a a a a a a<|endoftext|> 
+2024-09-27 17:05:58,176 - INFO - 3 - Target captions:
+ A group of three little girls sitting at a table.<|endoftext|><|endoftext|>  
+3 - predicted_captions:
+ A man holding a cup of coffee and a a a a a a a. a a a<|endoftext|> 
+2024-09-27 17:06:02,952 - INFO - Step 500/100000: Avg Running Loss = 4.996287920475006
+2024-09-27 17:10:00,210 - INFO - Step 600/100000: Avg Running Loss = 4.961097309589386
+2024-09-27 17:14:15,772 - INFO - Step 700/100000: Avg Running Loss = 5.092269489765167
+2024-09-27 17:15:51,539 - INFO - Batch skipped as captions too long.
+2024-09-27 17:18:16,416 - INFO - Step 800/100000: Avg Running Loss = 4.9142662310600285
+2024-09-27 17:22:29,701 - INFO - Step 900/100000: Avg Running Loss = 4.943052618503571
+2024-09-27 17:26:43,300 - INFO - 0 - Target captions:
+ Teddy bears dressed up like a marching band and color guard.   
+0 - predicted_captions:
+ A man is holding a sign that says "HELP" in a a a a a<|endoftext|> 
+2024-09-27 17:26:43,301 - INFO - 1 - Target captions:
+ A picture of people sitting on a bench.<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A man is standing in front of a building with a a a a a a a a a<|endoftext|> 
+2024-09-27 17:26:43,301 - INFO - 2 - Target captions:
+ a baseball player gets ready to run to first base<|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+2 - predicted_captions:
+ A man is playing a baseball with a bat in a. a. a. a. the<|endoftext|> 
+2024-09-27 17:26:43,301 - INFO - 3 - Target captions:
+ A woman standing in front of a metal refrigerator freezer.<|endoftext|><|endoftext|><|endoftext|>  
+3 - predicted_captions:
+ A woman is standing in front of a a a a a a a a a a a a<|endoftext|> 
+2024-09-27 17:26:48,681 - INFO - Step 1000/100000: Avg Running Loss = 4.912942407131195
+2024-09-27 17:26:55,781 - INFO - Batch skipped as captions too long.
+2024-09-27 17:29:05,273 - INFO - Batch skipped as captions too long.
+2024-09-27 17:30:53,688 - INFO - Step 1100/100000: Avg Running Loss = 4.998888108730316
+2024-09-27 17:35:07,582 - INFO - Step 1200/100000: Avg Running Loss = 5.192728219032287
+2024-09-27 17:39:12,487 - INFO - Step 1300/100000: Avg Running Loss = 5.005503835678101
+2024-09-27 17:43:14,809 - INFO - Step 1400/100000: Avg Running Loss = 4.917777311801911
+2024-09-27 17:47:31,428 - INFO - 0 - Target captions:
+ A young boy in traditional clothing holding a fan and a cell phone.  
+0 - predicted_captions:
+ A man is holding a sign that says "I love" and a a. a. a<|endoftext|> 
+2024-09-27 17:47:31,428 - INFO - 1 - Target captions:
+ A very dimly lit room with a computer on a desk.<|endoftext|>  
+1 - predicted_captions:
+ A laptop is on a table with a a a a a a a. a a a a<|endoftext|> 
+2024-09-27 17:47:31,428 - INFO - 2 - Target captions:
+ A flat bread pizza on a wood pizza server.<|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+2 - predicted_captions:
+ A plate of pizza with a slice of on a and a. a. a. a.<|endoftext|> 
+2024-09-27 17:47:31,428 - INFO - 3 - Target captions:
+ A woman is using a mobile device in front of a business.<|endoftext|>  
+3 - predicted_captions:
+ A man is standing in front of a a a a a a a a a a a a<|endoftext|> 
+2024-09-27 17:47:37,807 - INFO - Step 1500/100000: Avg Running Loss = 4.887502307891846
+2024-09-27 17:51:45,125 - INFO - Step 1600/100000: Avg Running Loss = 4.976486785411835
+2024-09-27 17:55:49,805 - INFO - Step 1700/100000: Avg Running Loss = 4.831337025165558
+2024-09-27 18:00:23,496 - INFO - Step 1800/100000: Avg Running Loss = 5.11353821516037
+2024-09-27 18:04:32,645 - INFO - Step 1900/100000: Avg Running Loss = 5.02827932357788
+2024-09-27 18:08:46,500 - INFO - 0 - Target captions:
+ A coffee pot, jug of water, bottles of water, and other items sitting on a counter top.   
+0 - predicted_captions:
+ A table with a toaster and a a a a a a a a a a a a<|endoftext|> 
+2024-09-27 18:08:46,500 - INFO - 1 - Target captions:
+ A collection of teddy bears sitting in a basket on the floor.<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A dog is a cat a a a a a a a a a a a a a a<|endoftext|> 
+2024-09-27 18:08:46,500 - INFO - 2 - Target captions:
+ Multiple computers and electronics on a wooden desk.<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+2 - predicted_captions:
+ A laptop is on a table with a a a a a a a a of a. a<|endoftext|> 
+2024-09-27 18:08:46,500 - INFO - 3 - Target captions:
+ A sign hanging from a building with a clock built into it.<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+3 - predicted_captions:
+ A large, white, and green, and a, and a, and a, and a<|endoftext|> 
+2024-09-27 18:08:51,810 - INFO - Step 2000/100000: Avg Running Loss = 5.028208079338074

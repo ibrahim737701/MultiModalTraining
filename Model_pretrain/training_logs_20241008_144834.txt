@@ -1,0 +1,204 @@
+2024-10-08 14:49:10,066 - INFO - Training started.
+2024-10-08 14:50:08,439 - INFO - Step 0/100000: Avg Running Loss = 4.658315658569336
+2024-10-08 14:52:54,055 - INFO - Step 100/100000: Avg Running Loss = 4.444114637374878
+2024-10-08 14:55:42,725 - INFO - Step 200/100000: Avg Running Loss = 4.469309892654419
+2024-10-08 14:58:14,892 - INFO - Step 300/100000: Avg Running Loss = 4.5045110845565794
+2024-10-08 15:00:38,928 - INFO - Step 400/100000: Avg Running Loss = 4.4108117270469664
+2024-10-08 15:03:18,650 - INFO - 0 - Target captions:
+ A dinner of chicken pot pie and potato pancakes.<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+0 - predicted_captions:
+ A plate of food with a fork and a..........<|endoftext|> 
+2024-10-08 15:03:18,650 - INFO - 1 - Target captions:
+ a close up of a chid holding a tooth brush <|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A baby holding a controller in his hand...........<|endoftext|> 
+2024-10-08 15:03:18,650 - INFO - 2 - Target captions:
+ A doll arm next to a plastic container with orange knobs. <|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+2 - predicted_captions:
+ A person holding a cup of coffee in a. a........<|endoftext|> 
+2024-10-08 15:03:18,650 - INFO - 3 - Target captions:
+ The bouquet of  pink daisies are arranged in a transparent vase.  
+3 - predicted_captions:
+ A vase of flowers sitting on a a a.........<|endoftext|> 
+2024-10-08 15:03:23,371 - INFO - Step 500/100000: Avg Running Loss = 4.353290903568268
+2024-10-08 15:05:56,084 - INFO - Step 600/100000: Avg Running Loss = 4.503248472213745
+2024-10-08 15:07:41,876 - INFO - Batch skipped as captions too long.
+2024-10-08 15:08:25,452 - INFO - Step 700/100000: Avg Running Loss = 4.507519028186798
+2024-10-08 15:10:55,294 - INFO - Step 800/100000: Avg Running Loss = 4.461419641971588
+2024-10-08 15:13:22,642 - INFO - Step 900/100000: Avg Running Loss = 4.335108642578125
+2024-10-08 15:14:31,341 - INFO - Batch skipped as captions too long.
+2024-10-08 15:15:18,863 - INFO - Batch skipped as captions too long.
+2024-10-08 15:15:55,930 - INFO - 0 - Target captions:
+ a flower is inside of a glass vase<|endoftext|><|endoftext|><|endoftext|>  
+0 - predicted_captions:
+ A cake with a bunch of fruit on on it.........<|endoftext|> 
+2024-10-08 15:15:55,930 - INFO - 1 - Target captions:
+ A group of young men playing a  game of baseball.  
+1 - predicted_captions:
+ A man is holding a baseball in a a a a a.... a. a<|endoftext|> 
+2024-10-08 15:15:55,930 - INFO - 2 - Target captions:
+ A close up view of four clear vases.<|endoftext|><|endoftext|>  
+2 - predicted_captions:
+ A glass of water sitting on a table a a a........<|endoftext|> 
+2024-10-08 15:15:55,930 - INFO - 3 - Target captions:
+ A dark photo of what seems to be a clock<|endoftext|><|endoftext|>  
+3 - predicted_captions:
+ A clock on a wall in a room. a........ a<|endoftext|> 
+2024-10-08 15:16:00,566 - INFO - Step 1000/100000: Avg Running Loss = 4.464654741287231
+2024-10-08 15:18:31,807 - INFO - Step 1100/100000: Avg Running Loss = 4.504830882549286
+2024-10-08 15:18:59,541 - INFO - Batch skipped as captions too long.
+2024-10-08 15:21:03,878 - INFO - Step 1200/100000: Avg Running Loss = 4.487091801166534
+2024-10-08 15:22:50,676 - INFO - Batch skipped as captions too long.
+2024-10-08 15:23:34,534 - INFO - Step 1300/100000: Avg Running Loss = 4.388585541248322
+2024-10-08 15:26:11,820 - INFO - Step 1400/100000: Avg Running Loss = 4.5473105597496035
+2024-10-08 15:28:52,812 - INFO - 0 - Target captions:
+ A black microwave sitting on a the shelf of a wood cupboard<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+0 - predicted_captions:
+ A kitchen with a stove, microwave, and a.... and a...<|endoftext|> 
+2024-10-08 15:28:52,812 - INFO - 1 - Target captions:
+ Three flowers, one in a vase, are being kept on an outside table.   
+1 - predicted_captions:
+ A vase of flowers on a table table a table.... a. a.<|endoftext|> 
+2024-10-08 15:28:52,812 - INFO - 2 - Target captions:
+ a man and woman look inside of a oven <|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+2 - predicted_captions:
+ A man and a woman standing in a kitchen a a........<|endoftext|> 
+2024-10-08 15:28:52,812 - INFO - 3 - Target captions:
+ Group of wine glasses with plates of appetizers.<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+3 - predicted_captions:
+ A table with several glasses of wine and a. and a.... and a.<|endoftext|> 
+2024-10-08 15:28:57,190 - INFO - Step 1500/100000: Avg Running Loss = 4.465826442241669
+2024-10-08 15:31:34,390 - INFO - Step 1600/100000: Avg Running Loss = 4.5115770244598385
+2024-10-08 15:34:06,648 - INFO - Step 1700/100000: Avg Running Loss = 4.454835507869721
+2024-10-08 15:36:37,388 - INFO - Step 1800/100000: Avg Running Loss = 4.405359807014466
+2024-10-08 15:39:06,929 - INFO - Step 1900/100000: Avg Running Loss = 4.478884811401367
+2024-10-08 15:41:39,787 - INFO - 0 - Target captions:
+ Little girl sitting on a step next to a brown teddy bear.   
+0 - predicted_captions:
+ A little girl is sitting on a bench with a stuffed bear.......<|endoftext|> 
+2024-10-08 15:41:39,787 - INFO - 1 - Target captions:
+ A sausage being served on a round hard roll in a restaurant. <|endoftext|>  
+1 - predicted_captions:
+ A sandwich on a plate with a a and a.........<|endoftext|> 
+2024-10-08 15:41:39,787 - INFO - 2 - Target captions:
+ A plate of food by a cell phone on the table.<|endoftext|><|endoftext|><|endoftext|>  
+2 - predicted_captions:
+ A plate of food with a sandwich and a a on........<|endoftext|> 
+2024-10-08 15:41:39,787 - INFO - 3 - Target captions:
+ Four people are having pizza near many soda cans.<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+3 - predicted_captions:
+ A group of people are sitting at a table pizza pizza....... a<|endoftext|> 
+2024-10-08 15:41:43,582 - INFO - Step 2000/100000: Avg Running Loss = 4.447658898830414
+2024-10-08 15:44:19,388 - INFO - Step 2100/100000: Avg Running Loss = 4.42952996969223
+2024-10-08 15:46:53,143 - INFO - Step 2200/100000: Avg Running Loss = 4.362427809238434
+2024-10-08 15:49:27,520 - INFO - Step 2300/100000: Avg Running Loss = 4.470445032119751
+2024-10-08 15:51:57,443 - INFO - Step 2400/100000: Avg Running Loss = 4.4447795152664185
+2024-10-08 15:54:32,899 - INFO - 0 - Target captions:
+ A scene of drink party where glasses are seen on the table with person sitting around.  
+0 - predicted_captions:
+ A glass of wine on a table table table....... a. a<|endoftext|> 
+2024-10-08 15:54:32,899 - INFO - 1 - Target captions:
+ A man sitting in front of a computer is holding up a cellphone.<|endoftext|><|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A man holding a cell phone in a a a.... a. a. a<|endoftext|> 
+2024-10-08 15:54:32,899 - INFO - 2 - Target captions:
+ A black room with a single vase of daisies.<|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+2 - predicted_captions:
+ A vase of flowers on a table a a..... a. a.<|endoftext|> 
+2024-10-08 15:54:32,899 - INFO - 3 - Target captions:
+ A refrigerator is wedged into a very tight space in a narrow kitchen.<|endoftext|><|endoftext|>  
+3 - predicted_captions:
+ A kitchen with a refrigerator, stove, and and. and. and. and. and.<|endoftext|> 
+2024-10-08 15:54:36,656 - INFO - Step 2500/100000: Avg Running Loss = 4.432805931568145
+2024-10-08 15:57:04,461 - INFO - Step 2600/100000: Avg Running Loss = 4.3628731226921085
+2024-10-08 15:59:30,148 - INFO - Step 2700/100000: Avg Running Loss = 4.33213446855545
+2024-10-08 16:01:34,723 - INFO - Batch skipped as captions too long.
+2024-10-08 16:01:58,857 - INFO - Step 2800/100000: Avg Running Loss = 4.443293249607086
+2024-10-08 16:04:31,401 - INFO - Step 2900/100000: Avg Running Loss = 4.484975409507752
+2024-10-08 16:06:57,652 - INFO - 0 - Target captions:
+ Stuffed animals placed in front of a white background.  
+0 - predicted_captions:
+ A group of stuffed animals sitting on a a a.........<|endoftext|> 
+2024-10-08 16:06:57,652 - INFO - 1 - Target captions:
+ a cellphone and a cellphone holder in a car<|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A phone is on the dashboard of a car...... the. the.<|endoftext|> 
+2024-10-08 16:06:57,652 - INFO - 2 - Target captions:
+ Close-up of a pizza prepared with cooked vegetables.  
+2 - predicted_captions:
+ A pizza on a plate with a tomato and cheese.........<|endoftext|> 
+2024-10-08 16:06:57,652 - INFO - 3 - Target captions:
+ A man preparing food while standing in a kitchen.<|endoftext|>  
+3 - predicted_captions:
+ A man is cooking in a kitchen with a..........<|endoftext|> 
+2024-10-08 16:07:01,566 - INFO - Step 3000/100000: Avg Running Loss = 4.384625191688538
+2024-10-08 16:09:29,245 - INFO - Step 3100/100000: Avg Running Loss = 4.369472677707672
+2024-10-08 16:11:58,430 - INFO - Step 3200/100000: Avg Running Loss = 4.358508441448212
+2024-10-08 16:14:26,661 - INFO - Step 3300/100000: Avg Running Loss = 4.455639650821686
+2024-10-08 16:16:56,994 - INFO - Step 3400/100000: Avg Running Loss = 4.338247873783112
+2024-10-08 16:19:29,926 - INFO - 0 - Target captions:
+ Two guys on the court playing tennis trying to hit the ball<|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+0 - predicted_captions:
+ A man and a woman playing tennis on a court. court.... a court.<|endoftext|> 
+2024-10-08 16:19:29,926 - INFO - 1 - Target captions:
+ An oven with a pizza in it and logs next to it.<|endoftext|><|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A kitchen with a stove, oven, and and and. and. and. and. and<|endoftext|> 
+2024-10-08 16:19:29,926 - INFO - 2 - Target captions:
+ A red, brown, and white teddy bear is near other stuffed animals.  
+2 - predicted_captions:
+ A teddy bear with a red scarf and a a a. a. a. a.<|endoftext|> 
+2024-10-08 16:19:29,926 - INFO - 3 - Target captions:
+ A large clock tower next to a tall building.<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+3 - predicted_captions:
+ A clock tower with a clock tower clock clock clock clock clock clock clock clock tower clock clock clock<|endoftext|> 
+2024-10-08 16:19:33,907 - INFO - Step 3500/100000: Avg Running Loss = 4.445365827083588
+2024-10-08 16:22:05,051 - INFO - Step 3600/100000: Avg Running Loss = 4.462628381252289
+2024-10-08 16:24:21,045 - INFO - Batch skipped as captions too long.
+2024-10-08 16:24:36,117 - INFO - Step 3700/100000: Avg Running Loss = 4.359398276805877
+2024-10-08 16:27:00,448 - INFO - Step 3800/100000: Avg Running Loss = 4.398927326202393
+2024-10-08 16:29:37,674 - INFO - Step 3900/100000: Avg Running Loss = 4.520374541282654
+2024-10-08 16:32:15,628 - INFO - 0 - Target captions:
+ A deep pizza with cheese sliced into 6 pieces.<|endoftext|><|endoftext|><|endoftext|>  
+0 - predicted_captions:
+ A pizza on a table with a a and..........<|endoftext|> 
+2024-10-08 16:32:15,629 - INFO - 1 - Target captions:
+ A young boy siting in front of a white laptop computer.  
+1 - predicted_captions:
+ A young boy is sitting at a laptop a a a a a. a. a. a<|endoftext|> 
+2024-10-08 16:32:15,629 - INFO - 2 - Target captions:
+ A woman poses for a picture around the table.<|endoftext|><|endoftext|><|endoftext|>  
+2 - predicted_captions:
+ A woman is sitting at a table with a a of a and a. a and a table<|endoftext|> 
+2024-10-08 16:32:15,629 - INFO - 3 - Target captions:
+ A collection of art supplies sitting on a table.<|endoftext|><|endoftext|><|endoftext|>  
+3 - predicted_captions:
+ A bunch of scissors, a pencils and a and a and a and a and a and<|endoftext|> 
+2024-10-08 16:32:19,114 - INFO - Step 4000/100000: Avg Running Loss = 4.596550085544586
+2024-10-08 16:34:49,049 - INFO - Step 4100/100000: Avg Running Loss = 4.497028710842133
+2024-10-08 16:37:20,971 - INFO - Step 4200/100000: Avg Running Loss = 4.4187637758255
+2024-10-08 16:39:49,691 - INFO - Step 4300/100000: Avg Running Loss = 4.481855690479279
+2024-10-08 16:41:03,778 - INFO - Batch skipped as captions too long.
+2024-10-08 16:42:13,505 - INFO - Step 4400/100000: Avg Running Loss = 4.257878103256226
+2024-10-08 16:42:49,178 - INFO - Batch skipped as captions too long.
+2024-10-08 16:44:46,225 - INFO - 0 - Target captions:
+ A woman holding up a smart phone in her right hand.  
+0 - predicted_captions:
+ A man holding a cell phone in his hand. his.. his. his. his.<|endoftext|> 
+2024-10-08 16:44:46,225 - INFO - 1 - Target captions:
+ Three people smiling and holding wine glasses in their hands.<|endoftext|>  
+1 - predicted_captions:
+ A woman and a man are standing in a a a a a a a a glass of wine<|endoftext|> 
+2024-10-08 16:44:46,225 - INFO - 2 - Target captions:
+ This is a baseball game for the minor leagues.<|endoftext|><|endoftext|>  
+2 - predicted_captions:
+ A group of people playing baseball in a field......... a<|endoftext|> 
+2024-10-08 16:44:46,225 - INFO - 3 - Target captions:
+ A hang holding onto a black remote in a white room.  
+3 - predicted_captions:
+ A person holding a remote control in their hand. a. a a a a a a.<|endoftext|> 
+2024-10-08 16:44:50,026 - INFO - Step 4500/100000: Avg Running Loss = 4.472700173854828
+2024-10-08 16:47:20,672 - INFO - Step 4600/100000: Avg Running Loss = 4.428858873844146
+2024-10-08 16:49:54,190 - INFO - Step 4700/100000: Avg Running Loss = 4.448460371494293
+2024-10-08 16:52:30,561 - INFO - Step 4800/100000: Avg Running Loss = 4.411693193912506
+2024-10-08 16:54:58,288 - INFO - Step 4900/100000: Avg Running Loss = 4.342710793018341

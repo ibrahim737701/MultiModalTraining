@@ -1,0 +1,36 @@
+2024-09-27 14:14:28,627 - INFO - Training started.
+2024-09-27 14:16:51,213 - INFO - Step 0/100000: Avg Running Loss = 5.190593242645264
+2024-09-27 14:22:17,904 - INFO - Batch skipped as captions too long.
+2024-09-27 14:22:22,452 - INFO - Step 100/100000: Avg Running Loss = 5.134188284873963
+2024-09-27 14:26:30,727 - INFO - Step 200/100000: Avg Running Loss = 5.154674751758575
+2024-09-27 14:30:46,166 - INFO - Step 300/100000: Avg Running Loss = 5.206745972633362
+2024-09-27 14:34:43,684 - INFO - Step 400/100000: Avg Running Loss = 5.01509447813034
+2024-09-27 14:37:52,794 - INFO - Batch skipped as captions too long.
+2024-09-27 14:38:48,800 - INFO - Step 500/100000: Avg Running Loss = 5.067396802902222
+2024-09-27 14:40:02,624 - INFO - Batch skipped as captions too long.
+2024-09-27 14:42:49,892 - INFO - Step 600/100000: Avg Running Loss = 5.050963475704193
+2024-09-27 14:44:59,331 - INFO - Batch skipped as captions too long.
+2024-09-27 14:47:00,341 - INFO - Step 700/100000: Avg Running Loss = 5.135050535202026
+2024-09-27 14:51:01,595 - INFO - Step 800/100000: Avg Running Loss = 4.978863463401795
+2024-09-27 14:55:11,277 - INFO - Step 900/100000: Avg Running Loss = 5.038914425373077
+2024-09-27 14:59:19,178 - INFO - 0 - Target captions:
+ A hand holding a camera taking a picture of a green valley.  
+0 - predicted_captions:
+ A man is standing in front of a a a a a a a a a a a a<|endoftext|> 
+2024-09-27 14:59:19,178 - INFO - 1 - Target captions:
+ A bowl of fruit is next to a sliced orange. <|endoftext|>  
+1 - predicted_captions:
+ A plate of food on a table with a plate of food on a table. a of a<|endoftext|> 
+2024-09-27 14:59:19,178 - INFO - 2 - Target captions:
+ A clock tower is past a bridge over a river.<|endoftext|><|endoftext|>  
+2 - predicted_captions:
+ A man standing in front of a a a a a a a a a a a a a<|endoftext|> 
+2024-09-27 14:59:19,178 - INFO - 3 - Target captions:
+ A computer desk with multiple monitors left on.<|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+3 - predicted_captions:
+ A woman is sitting on a couch in a living room a a a a a a a a<|endoftext|> 
+2024-09-27 14:59:24,547 - INFO - Step 1000/100000: Avg Running Loss = 5.048278167247772
+2024-09-27 15:03:32,609 - INFO - Step 1100/100000: Avg Running Loss = 5.032544238567352
+2024-09-27 15:04:02,912 - INFO - Batch skipped as captions too long.
+2024-09-27 15:07:40,993 - INFO - Step 1200/100000: Avg Running Loss = 5.006480097770691
+2024-09-27 15:11:49,418 - INFO - Step 1300/100000: Avg Running Loss = 5.065524005889893

@@ -1,0 +1,47 @@
+2024-10-01 14:59:47,054 - INFO - Training started.
+2024-10-01 15:00:51,514 - INFO - Step 0/100000: Avg Running Loss = 5.352383136749268
+2024-10-01 15:03:44,285 - INFO - Step 100/100000: Avg Running Loss = 4.408601315021515
+2024-10-01 15:06:03,292 - INFO - Step 200/100000: Avg Running Loss = 4.37257443189621
+2024-10-01 15:08:41,219 - INFO - Step 300/100000: Avg Running Loss = 4.529252979755402
+2024-10-01 15:11:01,077 - INFO - Step 400/100000: Avg Running Loss = 4.387021491527557
+2024-10-01 15:11:33,345 - INFO - Batch skipped as captions too long.
+2024-10-01 15:13:25,840 - INFO - 0 - Target captions:
+ A baseball player swinging a bat over home plate.<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+0 - predicted_captions:
+ A baseball player is in the air with a a.........<|endoftext|> 
+2024-10-01 15:13:25,840 - INFO - 1 - Target captions:
+ Two men sit on a couch and use their laptops while an older woman looks on.  
+1 - predicted_captions:
+ A group of people sitting in a room a a a laptop.... laptop. laptop<|endoftext|> 
+2024-10-01 15:13:25,840 - INFO - 2 - Target captions:
+ Adults and children gather around a table with computers on it.<|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+2 - predicted_captions:
+ A man and two children sitting at a a a a..... a. a<|endoftext|> 
+2024-10-01 15:13:25,840 - INFO - 3 - Target captions:
+ a tall clock tower with a sky background<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+3 - predicted_captions:
+ A clock tower in the middle of a city..... people....<|endoftext|> 
+2024-10-01 15:13:30,960 - INFO - Step 500/100000: Avg Running Loss = 4.419260268211365
+2024-10-01 15:16:07,216 - INFO - Step 600/100000: Avg Running Loss = 4.327210667133332
+2024-10-01 15:18:30,886 - INFO - Step 700/100000: Avg Running Loss = 4.4567082452774045
+2024-10-01 15:20:48,807 - INFO - Step 800/100000: Avg Running Loss = 4.276024529933929
+2024-10-01 15:23:13,582 - INFO - Step 900/100000: Avg Running Loss = 4.425642392635345
+2024-10-01 15:25:44,248 - INFO - 0 - Target captions:
+ A red lamp that reads lunch time with pictures of food next to it.<|endoftext|><|endoftext|><|endoftext|>  
+0 - predicted_captions:
+ A plate of food with a fork and a it........ a<|endoftext|> 
+2024-10-01 15:25:44,248 - INFO - 1 - Target captions:
+ People are standing at a counter with wine bottles.<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A group of men standing in front of a table of..... bottles..<|endoftext|> 
+2024-10-01 15:25:44,248 - INFO - 2 - Target captions:
+ A waffle is sitting on a plate with a fork near a glass of orange juice.  
+2 - predicted_captions:
+ A man is eating a sandwich on a table..........<|endoftext|> 
+2024-10-01 15:25:44,248 - INFO - 3 - Target captions:
+ Two young men are texting on their cell phones.<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+3 - predicted_captions:
+ A man and a woman are standing next to each each a phone.... phone.<|endoftext|> 
+2024-10-01 15:25:46,953 - INFO - Step 1000/100000: Avg Running Loss = 4.420979628562927
+2024-10-01 15:28:11,049 - INFO - Step 1100/100000: Avg Running Loss = 4.452942190170288
+2024-10-01 15:30:35,167 - INFO - Step 1200/100000: Avg Running Loss = 4.424920089244843

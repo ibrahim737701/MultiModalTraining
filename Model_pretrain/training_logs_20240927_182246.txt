@@ -1,0 +1,48 @@
+2024-09-27 18:23:20,536 - INFO - Training started.
+2024-09-27 18:25:17,966 - INFO - Step 0/100000: Avg Running Loss = 5.294205188751221
+2024-09-27 18:30:22,460 - INFO - Step 100/100000: Avg Running Loss = 4.950523743629455
+2024-09-27 18:34:19,397 - INFO - Step 200/100000: Avg Running Loss = 4.819941475391388
+2024-09-27 18:38:14,249 - INFO - Step 300/100000: Avg Running Loss = 4.777156436443329
+2024-09-27 18:38:42,442 - INFO - Batch skipped as captions too long.
+2024-09-27 18:42:18,841 - INFO - Step 400/100000: Avg Running Loss = 5.048618314266204
+2024-09-27 18:46:27,861 - INFO - 0 - Target captions:
+ The woman walks down the sidewalk using her cell phone.<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+0 - predicted_captions:
+ A woman is standing in front of a building with a a a a a. a a a<|endoftext|> 
+2024-09-27 18:46:27,862 - INFO - 1 - Target captions:
+ A man in a military uniform standing in a pile of rubble next to a clock.  
+1 - predicted_captions:
+ A man is standing in front of a a a a a a a a a a a a<|endoftext|> 
+2024-09-27 18:46:27,862 - INFO - 2 - Target captions:
+ People in a brightly-lit kitchen talking together over food and wine.<|endoftext|><|endoftext|><|endoftext|>  
+2 - predicted_captions:
+ A woman in a white dress and a a a a a. a. a. a.<|endoftext|> 
+2024-09-27 18:46:27,862 - INFO - 3 - Target captions:
+ A man standing on top of a field of grass.<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+3 - predicted_captions:
+ A man is sitting on a bench with a a a a a. a. a. a<|endoftext|> 
+2024-09-27 18:46:32,198 - INFO - Step 500/100000: Avg Running Loss = 4.934070906639099
+2024-09-27 18:48:06,949 - INFO - Batch skipped as captions too long.
+2024-09-27 18:50:41,224 - INFO - Step 600/100000: Avg Running Loss = 4.940333738327026
+2024-09-27 18:54:43,462 - INFO - Step 700/100000: Avg Running Loss = 4.802419955730438
+2024-09-27 18:58:45,548 - INFO - Step 800/100000: Avg Running Loss = 4.992755224704743
+2024-09-27 19:02:54,428 - INFO - Step 900/100000: Avg Running Loss = 4.969827692508698
+2024-09-27 19:06:56,795 - INFO - 0 - Target captions:
+ A clock tower is seen from ground level just behind the edge of another building.  
+0 - predicted_captions:
+ A train is parked in front of a building in a. a. a. a. of<|endoftext|> 
+2024-09-27 19:06:56,796 - INFO - 1 - Target captions:
+ A very tall building with a clock tower.<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
+1 - predicted_captions:
+ A large, white, metal, tower with a. a. a. a. a.<|endoftext|> 
+2024-09-27 19:06:56,796 - INFO - 2 - Target captions:
+ Somebody is in the photograph not certain who that individual is. 
+<|endoftext|>  
+2 - predicted_captions:
+ A woman is sitting on a couch in a a a a a a. a. a.<|endoftext|> 
+2024-09-27 19:06:56,796 - INFO - 3 - Target captions:
+ A plate of fruit is sitting under a waffle mix machine.<|endoftext|><|endoftext|><|endoftext|>  
+3 - predicted_captions:
+ A table with a variety of foods on it a. a. a. a. a.<|endoftext|> 
+2024-09-27 19:07:02,834 - INFO - Step 1000/100000: Avg Running Loss = 4.914047265052796
+2024-09-27 19:11:14,434 - INFO - Step 1100/100000: Avg Running Loss = 4.91099460363388
