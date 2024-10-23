@@ -29,13 +29,13 @@ https://github.com/ibrahim737701/MultiModalTraining/blob/3acfd63a3e64def8e64ab49
 
 Example Results:
 0 - Target captions:
- A group of teddy bears are on display at the store.<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>  
-0 - predicted_captions:
- A display of stuffed animals in a store...........<|endoftext|> 
-1 - Target captions:
- A man holding a tennis racquet on a tennis court.  
-1 - predicted_captions:
- A man is playing tennis on a court.<|endoftext|>
+ A group of teddy bears are on display at the store.<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>    
+0 - predicted_captions:  
+ A display of stuffed animals in a store...........<|endoftext|>   
+1 - Target captions:  
+ A man holding a tennis racquet on a tennis court.    
+1 - predicted_captions:  
+ A man is playing tennis on a court.<|endoftext|>  
 
 
 <img width="635" alt="image" src="https://github.com/user-attachments/assets/52f2aa4f-583a-411e-bcc5-dc9f752eb298">
