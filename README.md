@@ -22,7 +22,7 @@ Assignment Step 1: Pretrain for annotated images.
 
 ## Part 1: Image Embeddings with CLIP and Phi Model
 
-In this part of the project, I integrated CLIP model (vit-base-patch32) to generate image embeddings. These embeddings were either computed in real-time since I had enough compute. I then added a projection layer to convert these image embeddings into a format compatible with the text embeddings of the Phi model. By concatenating these embeddings, the model gained the ability to understand and reason about visual inputs alongside text.
+In this part of the project, I integrated CLIP model (vit-base-patch32) to generate image embeddings. These embeddings were computed in real-time since I had enough compute. I then added a projection layer to convert these image embeddings into a format compatible with the text embeddings of the Phi model. By concatenating these embeddings, and training the model, it gained the ability to understand and reason about visual inputs alongside text.
 
 Link to the training logs:-
 https://github.com/ibrahim737701/MultiModalTraining/blob/3acfd63a3e64def8e64ab49abf7fe56d9faa9fce/Model_pretrain/training_logs_20241009_102342.txt
